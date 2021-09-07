@@ -1,6 +1,12 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, Footer, Home, About, Buy, Contact } from "./components";
+import Navigation from "./components/Navigation";
+import Footer  from "./components/Footer";
+import Home from "./components/Home";
+import About from "./components/About";
+import Buy from "./components/Buy";
+import Contact from "./components/Contact";
+
 function App() {
   return (
     <div className="App">
