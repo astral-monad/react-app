@@ -3,14 +3,14 @@ import { Link, withRouter } from "react-router-dom";
 
 function Navigation(props) {
   return (
-    <div className="navigation">
+    <div className="navigation" "col-xs-2">
       <nav class="navbar navbar-expand navbar-dark bg-dark">
-        <div class="container">
+        <div class="container" "col-xs-2">
           <Link class="navbar-brand" to="/">
             Cosmophenomenology
           </Link>
           <div>
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto" "col-xs-2">
               <li
                 class={`nav-item  ${
                   props.location.pathname === "/" ? "active" : ""
