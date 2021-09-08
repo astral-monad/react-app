@@ -12,7 +12,7 @@ function Home() {
               alt=""
             />
           </div>
-          <div class="col-lg-5">
+          <div class="col-lg-5" "col-sm-2">
             <h1 class="font-weight-light">What is Cosmophenomenology?</h1>
             <p>
             An approach that extends the traditional phenomenology of Edmund Husserl to include the relation
@@ -20,13 +20,13 @@ function Home() {
              rather than simply human-to-human relations. The book integrates phenomenology with speculative theoretical physics.
              </p>
           </div>
-          <div class="col-lg-5">
+          <div class="col-lg-5" "col-sm-2">
             <h1 class="font-weight-light">Why Use Cosmophenomenology?</h1>
             <p>
             The approach is non-speciesist and non-anthropocentric and supports sustainable ecological practices.
             </p>
           </div>
-          <div class="col-lg-5">
+          <div class="col-lg-5" "col-sm-2">
             <h1 class="font-weight-light">Is Cosmophenomenology Interdisciplinary?</h1>
             <p>
             Yes, the approach can be integrated alongside speculative theoretical physics and non-classical quantum physics.
