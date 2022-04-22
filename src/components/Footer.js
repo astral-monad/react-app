@@ -19,7 +19,7 @@ function Footer(props) {
                         <h5>Social</h5>
                     </div>
                     <div className="col-sm-4 text-center">
-                        <a role="button" className="btn btn-link" href="tel:+17342103747"><i className="fa fa-phone" /> 1-734-210-3747</a><br />
+                        <a role="button" className="btn btn-link" href="tel:+17342103747"><i className="fa fa-phone" /></a><br />
                         <a role="button" className="btn btn-link" href="mailto:cosmophenomenology@gmail.com"><i className="fa fa-envelope-o" /> cosmophenomenology@gmail.com</a>
                     </div>
                 </div>
